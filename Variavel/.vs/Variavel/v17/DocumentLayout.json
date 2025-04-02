@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Variavel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1934B00-B749-47D1-899F-48FAB41C16E7}|Variavel\\Variavel.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\variavel\\variavel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1934B00-B749-47D1-899F-48FAB41C16E7}|Variavel\\Variavel.csproj|solutionrelative:variavel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Variavel\\Variavel\\Program.cs",
+              "RelativeDocumentMoniker": "Variavel\\Program.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Variavel\\Variavel\\Program.cs",
+              "RelativeToolTip": "Variavel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:58:07.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

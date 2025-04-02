@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\bin\Debug\net8.0\Variavel.exe
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\bin\Debug\net8.0\Variavel.deps.json
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\bin\Debug\net8.0\Variavel.runtimeconfig.json
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\bin\Debug\net8.0\Variavel.dll
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\bin\Debug\net8.0\Variavel.pdb
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.AssemblyInfo.cs
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.sourcelink.json
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.dll
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\refint\Variavel.dll
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.pdb
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\Variavel.genruntimeconfig.cache
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Variavel\Variavel\obj\Debug\net8.0\ref\Variavel.dll
