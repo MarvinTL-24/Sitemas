@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\bin\Debug\net8.0\Calculos.exe
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\bin\Debug\net8.0\Calculos.deps.json
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\bin\Debug\net8.0\Calculos.runtimeconfig.json
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\bin\Debug\net8.0\Calculos.dll
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\bin\Debug\net8.0\Calculos.pdb
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.AssemblyInfo.cs
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.sourcelink.json
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.dll
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\refint\Calculos.dll
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.pdb
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\Calculos.genruntimeconfig.cache
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\Calculos\Calculos\obj\Debug\net8.0\ref\Calculos.dll
