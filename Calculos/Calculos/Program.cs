@@ -121,21 +121,34 @@ switch (OP)
 
 /* EXERCICIO 26*/
 
-Console.WriteLine("Em ordem decrescente mostrar o valor inicial ate o valor desejado.");
-int inicial, final;
-Console.WriteLine("Digite o valor que ira iniciar a ordem decrescente: ");
+Console.WriteLine("Em ordem crescente mostrar o valor inicial até o valor desejado.");
+int inicial, final, par, impar;
+par = 0;
+impar = 0;
+Console.WriteLine("Digite o valor que irá iniciar a ordem crescente: ");
 inicial = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Digite o valor que ira parar a ordem decrescente: ");
+Console.WriteLine("Digite o valor final: ");
 final = Convert.ToInt32(Console.ReadLine());
-if (inicial <= final)
+Console.WriteLine("-----------------------------------------------------");
+if (inicial > final)
 {
-    Console.WriteLine("Os valores não se enquadram ao objetivo do exercicio, REFAÇA!!! ");
-}else
+    Console.WriteLine("Os valores não se enquadram ao objetivo do exercício, REFAÇA!!!");
+}
+else
 {
-    while (inicial >= final)
+    while (inicial <= final)
     {
-        Console.WriteLine("O valor atual é " + inicial);
-        inicial -= 1;
+        if (inicial % 2 == 0)
+        {
+            par++;
+        }
+        else
+        {
+            impar++;
+        }
+        Console.WriteLine(inicial);  
+        inicial++;
     }
-
+    Console.WriteLine("-----------------------------------------------------");
+    Console.WriteLine("O número de valores pares foi: " + par + " ,e os ímpares foram: " + impar);
 }
