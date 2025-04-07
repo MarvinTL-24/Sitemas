@@ -119,7 +119,7 @@ switch (OP)
 }
 */
 
-/* EXERCICIO 26*/
+/* EXERCICIO 26
 
 Console.WriteLine("Em ordem crescente mostrar o valor inicial até o valor desejado.");
 int inicial, final, par, impar;
@@ -152,3 +152,83 @@ else
     Console.WriteLine("-----------------------------------------------------");
     Console.WriteLine("O número de valores pares foi: " + par + " ,e os ímpares foram: " + impar);
 }
+*/
+
+/* EXERCICIO 37*/
+
+Console.WriteLine("Criar um menu para funções de calculo simples e manter a opção de sair ou não do programa.");
+double A, B, soma, subtrair, multiplicar, dividir;
+bool continuar = true;
+int OP;
+string resposta;
+
+while (continuar)
+{
+  Console.WriteLine("Decida qual função deseja realizar de acordo com a ordem:");
+  Console.WriteLine("1- Função de Somar");
+  Console.WriteLine("2- Função de Subtrair");
+  Console.WriteLine("3- Função de Multiplicar");
+  Console.WriteLine("4- Função de Dividir");
+
+  OP = Convert.ToInt32(Console.ReadLine());
+
+     switch (OP)
+     {
+      case 1:
+            Console.WriteLine("Digite o valor A:");
+            A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o valor B:");
+            B = Convert.ToDouble(Console.ReadLine());
+            soma = A + B;
+            Console.WriteLine("O valor da soma resultará em: " + soma);
+            break;
+
+      case 2:
+            Console.WriteLine("Digite o valor A:");
+            A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o valor B:");
+            B = Convert.ToDouble(Console.ReadLine());
+            subtrair = A - B;
+            Console.WriteLine("O valor da subtração resultará em: " + subtrair);
+            break;
+
+      case 3:
+            Console.WriteLine("Digite o valor A:");
+            A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o valor B:");
+            B = Convert.ToDouble(Console.ReadLine());
+            multiplicar = A * B;
+            Console.WriteLine("O valor da multiplicação resultará em: " + multiplicar);
+            break;
+
+      case 4:
+            Console.WriteLine("Digite o valor A:");
+            A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o valor B:");
+            B = Convert.ToDouble(Console.ReadLine());
+            if (B != 0)
+            {
+             dividir = A / B;
+             Console.WriteLine("O valor da divisão resultará em: " + dividir + " ,mas arredondado resultado será: " + Math.Round(dividir, 2));
+            }
+             else
+             {
+              Console.WriteLine("Erro: Não é possível dividir por zero.");
+             }
+              break;
+
+      default:
+            Console.WriteLine("A função desejada é inválida!!!");
+            break;
+     }
+
+     Console.WriteLine("Deseja realizar outra operação? (S/N): ");
+     resposta = Console.ReadLine();
+     if (resposta.ToUpper() != "S")
+     {
+       continuar = false;
+     }
+}
+  Console.WriteLine("Programa encerrado.");
+  
+
