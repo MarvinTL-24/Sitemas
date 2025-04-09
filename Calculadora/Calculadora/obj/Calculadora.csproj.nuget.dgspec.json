@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\interface\\Interface\\Interface.csproj": {}
+    "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Calculadora\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\interface\\Interface\\Interface.csproj": {
+    "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Calculadora\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\interface\\Interface\\Interface.csproj",
-        "projectName": "Interface",
-        "projectPath": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\interface\\Interface\\Interface.csproj",
+        "projectUniqueName": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Calculadora\\Calculadora\\Calculadora.csproj",
         "packagesPath": "D:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\interface\\Interface\\obj\\",
+        "outputPath": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\Calculadora\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
