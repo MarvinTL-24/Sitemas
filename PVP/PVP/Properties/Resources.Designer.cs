@@ -63,6 +63,16 @@ namespace PVP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BLACKGROUNDLIMPO {
+            get {
+                object obj = ResourceManager.GetObject("BLACKGROUNDLIMPO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pngwing_com__6_ {
             get {
                 object obj = ResourceManager.GetObject("pngwing.com (6)", resourceCulture);
