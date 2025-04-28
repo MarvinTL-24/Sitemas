@@ -16,3 +16,5 @@ D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0
 D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.pdb
 D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.genruntimeconfig.cache
 D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\ref\projeto.dll
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.editores.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.beatmaker.resources

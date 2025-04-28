@@ -17,7 +17,7 @@ namespace projeto
                 if (senha == "novasenha")
                 {
                     Form2 janela = new Form2();
-                    janela.ShowDialog();
+                    janela.Show();
                 }
                 else
                 {

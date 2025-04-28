@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("projeto")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("credito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8301ec02e6374479150ea70e7a295934dfc0bf2")]
-[assembly: System.Reflection.AssemblyProductAttribute("projeto")]
-[assembly: System.Reflection.AssemblyTitleAttribute("projeto")]
+[assembly: System.Reflection.AssemblyProductAttribute("credito")]
+[assembly: System.Reflection.AssemblyTitleAttribute("credito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

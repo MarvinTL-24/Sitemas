@@ -69,6 +69,7 @@
             button1.TabIndex = 2;
             button1.Text = "EDITORES";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -88,6 +89,7 @@
             button3.TabIndex = 4;
             button3.Text = "CANTORES";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -97,6 +99,7 @@
             button4.TabIndex = 5;
             button4.Text = "MIXER'S";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
@@ -106,6 +109,7 @@
             button5.TabIndex = 6;
             button5.Text = "ILUSTRADORES";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
@@ -115,6 +119,7 @@
             button6.TabIndex = 7;
             button6.Text = "THUMBMAKER'S";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // button7
             // 
@@ -124,6 +129,7 @@
             button7.TabIndex = 10;
             button7.Text = "REACT'S";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
             // 
             // button8
             // 
@@ -133,6 +139,7 @@
             button8.TabIndex = 9;
             button8.Text = "FEAT'S";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // button9
             // 
@@ -142,6 +149,7 @@
             button9.TabIndex = 8;
             button9.Text = "RECORTADORES";
             button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
             // 
             // Form2
             // 
@@ -161,7 +169,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            Margin = new Padding(4, 4, 4, 4);
+            Margin = new Padding(4);
             Name = "Form2";
             Text = "Bem Vindo";
             ResumeLayout(false);
