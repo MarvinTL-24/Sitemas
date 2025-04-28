@@ -119,7 +119,7 @@
             groupBox1.Size = new Size(274, 371);
             groupBox1.TabIndex = 3;
             groupBox1.TabStop = false;
-            groupBox1.Text = "EDITOR 1";
+            groupBox1.Text = "1";
             // 
             // label3
             // 
@@ -189,7 +189,7 @@
             groupBox2.Size = new Size(274, 371);
             groupBox2.TabIndex = 5;
             groupBox2.TabStop = false;
-            groupBox2.Text = "EDITOR 2";
+            groupBox2.Text = "2";
             groupBox2.Enter += groupBox2_Enter;
             // 
             // label4
@@ -251,7 +251,7 @@
             groupBox3.Size = new Size(274, 371);
             groupBox3.TabIndex = 7;
             groupBox3.TabStop = false;
-            groupBox3.Text = "EDITOR 4";
+            groupBox3.Text = "4";
             // 
             // label6
             // 
@@ -311,7 +311,7 @@
             groupBox4.Size = new Size(274, 371);
             groupBox4.TabIndex = 6;
             groupBox4.TabStop = false;
-            groupBox4.Text = "EDITOR 3";
+            groupBox4.Text = "3";
             // 
             // label8
             // 
@@ -371,7 +371,7 @@
             groupBox5.Size = new Size(274, 371);
             groupBox5.TabIndex = 11;
             groupBox5.TabStop = false;
-            groupBox5.Text = "EDITOR 4";
+            groupBox5.Text = "4";
             // 
             // label10
             // 
@@ -431,7 +431,7 @@
             groupBox6.Size = new Size(274, 371);
             groupBox6.TabIndex = 10;
             groupBox6.TabStop = false;
-            groupBox6.Text = "EDITOR 3";
+            groupBox6.Text = "3";
             // 
             // label12
             // 
@@ -491,7 +491,7 @@
             groupBox7.Size = new Size(274, 371);
             groupBox7.TabIndex = 9;
             groupBox7.TabStop = false;
-            groupBox7.Text = "EDITOR 2";
+            groupBox7.Text = "2";
             // 
             // label14
             // 
@@ -551,7 +551,7 @@
             groupBox8.Size = new Size(274, 371);
             groupBox8.TabIndex = 8;
             groupBox8.TabStop = false;
-            groupBox8.Text = "EDITOR 1";
+            groupBox8.Text = "1";
             // 
             // label16
             // 

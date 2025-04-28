@@ -4,13 +4,34 @@
     <Compile Update="beatmaker.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="cantores.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="editores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="feat.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ilustradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="react.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="recortadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="thumbmaker.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

@@ -20,7 +20,7 @@ namespace projeto
         private void button2_Click(object sender, EventArgs e)
         {
             beatmaker janela = new beatmaker();
-            janela.Show()
+            janela.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -32,43 +32,49 @@ namespace projeto
         private void button3_Click(object sender, EventArgs e)
         {
             cantores janela = new cantores();
-            janela.Show()
+            janela.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             mix janela = new mix();
-            janela.Show()
+            janela.Show();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             ilustradores janela = new ilustradores();
-            janela.Show()
+            janela.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             thumbmaker janela = new thumbmaker();
-            janela.Show()
+            janela.Show();
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
             recortadores janela = new recortadores();
-            janela.Show()
+            janela.Show();
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
             feat janela = new feat();
-            janela.Show()
+            janela.Show();
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
             react janela = new react();
-            janela.Show()
+            janela.Show();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.Cancel;
+            this.Close();
         }
     }
 }

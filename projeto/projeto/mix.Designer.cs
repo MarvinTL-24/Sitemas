@@ -1,6 +1,6 @@
 ﻿namespace projeto
 {
-    partial class beatmaker
+    partial class mix
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            vScrollBar1 = new VScrollBar();
             groupBox5 = new GroupBox();
             label10 = new Label();
             linkLabel9 = new LinkLabel();
@@ -97,13 +96,6 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // vScrollBar1
-            // 
-            vScrollBar1.Location = new Point(1322, -1);
-            vScrollBar1.Name = "vScrollBar1";
-            vScrollBar1.Size = new Size(22, 1043);
-            vScrollBar1.TabIndex = 23;
-            // 
             // groupBox5
             // 
             groupBox5.Controls.Add(label10);
@@ -111,13 +103,12 @@
             groupBox5.Controls.Add(linkLabel10);
             groupBox5.Controls.Add(label11);
             groupBox5.Controls.Add(pictureBox5);
-            groupBox5.Location = new Point(1018, 532);
+            groupBox5.Location = new Point(1023, 532);
             groupBox5.Name = "groupBox5";
             groupBox5.Size = new Size(274, 371);
-            groupBox5.TabIndex = 22;
+            groupBox5.TabIndex = 32;
             groupBox5.TabStop = false;
             groupBox5.Text = "4";
-            groupBox5.Enter += this.groupBox5_Enter;
             // 
             // label10
             // 
@@ -172,13 +163,12 @@
             groupBox6.Controls.Add(linkLabel12);
             groupBox6.Controls.Add(label13);
             groupBox6.Controls.Add(pictureBox6);
-            groupBox6.Location = new Point(706, 532);
+            groupBox6.Location = new Point(711, 532);
             groupBox6.Name = "groupBox6";
             groupBox6.Size = new Size(274, 371);
-            groupBox6.TabIndex = 21;
+            groupBox6.TabIndex = 31;
             groupBox6.TabStop = false;
             groupBox6.Text = "3";
-            groupBox6.Enter += this.groupBox6_Enter;
             // 
             // label12
             // 
@@ -233,13 +223,12 @@
             groupBox7.Controls.Add(linkLabel14);
             groupBox7.Controls.Add(label15);
             groupBox7.Controls.Add(pictureBox7);
-            groupBox7.Location = new Point(378, 532);
+            groupBox7.Location = new Point(383, 532);
             groupBox7.Name = "groupBox7";
             groupBox7.Size = new Size(274, 371);
-            groupBox7.TabIndex = 20;
+            groupBox7.TabIndex = 30;
             groupBox7.TabStop = false;
             groupBox7.Text = "2";
-            groupBox7.Enter += this.groupBox7_Enter;
             // 
             // label14
             // 
@@ -294,13 +283,12 @@
             groupBox8.Controls.Add(linkLabel16);
             groupBox8.Controls.Add(label17);
             groupBox8.Controls.Add(pictureBox8);
-            groupBox8.Location = new Point(66, 532);
+            groupBox8.Location = new Point(71, 532);
             groupBox8.Name = "groupBox8";
             groupBox8.Size = new Size(274, 371);
-            groupBox8.TabIndex = 19;
+            groupBox8.TabIndex = 29;
             groupBox8.TabStop = false;
             groupBox8.Text = "1";
-            groupBox8.Enter += this.groupBox8_Enter;
             // 
             // label16
             // 
@@ -355,13 +343,12 @@
             groupBox3.Controls.Add(linkLabel6);
             groupBox3.Controls.Add(label7);
             groupBox3.Controls.Add(pictureBox3);
-            groupBox3.Location = new Point(1018, 126);
+            groupBox3.Location = new Point(1023, 126);
             groupBox3.Name = "groupBox3";
             groupBox3.Size = new Size(274, 371);
-            groupBox3.TabIndex = 18;
+            groupBox3.TabIndex = 28;
             groupBox3.TabStop = false;
             groupBox3.Text = "4";
-            groupBox3.Enter += this.groupBox3_Enter;
             // 
             // label6
             // 
@@ -416,13 +403,12 @@
             groupBox4.Controls.Add(linkLabel8);
             groupBox4.Controls.Add(label9);
             groupBox4.Controls.Add(pictureBox4);
-            groupBox4.Location = new Point(706, 126);
+            groupBox4.Location = new Point(711, 126);
             groupBox4.Name = "groupBox4";
             groupBox4.Size = new Size(274, 371);
-            groupBox4.TabIndex = 17;
+            groupBox4.TabIndex = 27;
             groupBox4.TabStop = false;
             groupBox4.Text = "3";
-            groupBox4.Enter += this.groupBox4_Enter;
             // 
             // label8
             // 
@@ -477,13 +463,12 @@
             groupBox2.Controls.Add(linkLabel4);
             groupBox2.Controls.Add(label5);
             groupBox2.Controls.Add(pictureBox2);
-            groupBox2.Location = new Point(378, 126);
+            groupBox2.Location = new Point(383, 126);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(274, 371);
-            groupBox2.TabIndex = 16;
+            groupBox2.TabIndex = 26;
             groupBox2.TabStop = false;
             groupBox2.Text = "2";
-            groupBox2.Enter += this.groupBox2_Enter;
             // 
             // label4
             // 
@@ -533,10 +518,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(7, 10);
+            button1.Location = new Point(12, 10);
             button1.Name = "button1";
             button1.Size = new Size(149, 76);
-            button1.TabIndex = 15;
+            button1.TabIndex = 25;
             button1.Text = "RETORNAR";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
@@ -548,13 +533,12 @@
             groupBox1.Controls.Add(linkLabel1);
             groupBox1.Controls.Add(label2);
             groupBox1.Controls.Add(pictureBox1);
-            groupBox1.Location = new Point(66, 126);
+            groupBox1.Location = new Point(71, 126);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(274, 371);
-            groupBox1.TabIndex = 14;
+            groupBox1.TabIndex = 24;
             groupBox1.TabStop = false;
             groupBox1.Text = "1";
-            groupBox1.Enter += this.groupBox1_Enter;
             // 
             // label3
             // 
@@ -606,20 +590,18 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Showcard Gothic", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(494, 7);
+            label1.Location = new Point(569, 9);
             label1.Name = "label1";
-            label1.Size = new Size(412, 79);
-            label1.TabIndex = 13;
-            label1.Text = "BEATMAKER";
-            label1.Click += label1_Click;
+            label1.Size = new Size(288, 79);
+            label1.TabIndex = 23;
+            label1.Text = "MIXER'S";
             // 
-            // beatmaker
+            // mix
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveBorder;
             ClientSize = new Size(1350, 1041);
-            Controls.Add(vScrollBar1);
             Controls.Add(groupBox5);
             Controls.Add(groupBox6);
             Controls.Add(groupBox7);
@@ -630,8 +612,8 @@
             Controls.Add(button1);
             Controls.Add(groupBox1);
             Controls.Add(label1);
-            Name = "beatmaker";
-            Text = "beatmaker";
+            Name = "mix";
+            Text = "mix";
             groupBox5.ResumeLayout(false);
             groupBox5.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
@@ -662,7 +644,6 @@
 
         #endregion
 
-        private VScrollBar vScrollBar1;
         private GroupBox groupBox5;
         private Label label10;
         private LinkLabel linkLabel9;

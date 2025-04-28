@@ -10,21 +10,17 @@ using System.Windows.Forms;
 
 namespace projeto
 {
-    public partial class beatmaker : Form
+    public partial class thumbmaker : Form
     {
-        public beatmaker()
+        public thumbmaker()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            this.DialogResult = DialogResult.OK;
+            this.Close();
         }
     }
 }

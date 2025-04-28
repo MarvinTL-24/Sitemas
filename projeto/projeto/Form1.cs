@@ -16,8 +16,18 @@ namespace projeto
             {
                 if (senha == "novasenha")
                 {
+                    this.Hide(); // Oculta o Form1
                     Form2 janela = new Form2();
-                    janela.Show();
+                    DialogResult resultado = janela.ShowDialog(); // Abre Form2 de forma modal
+
+                    if (resultado == DialogResult.OK)
+                    {
+                        this.Show(); // Retorna para o Form1
+                    }
+                    else
+                    {
+                        this.Close(); // Encerra o programa, ou outra ação
+                    }
                 }
                 else
                 {

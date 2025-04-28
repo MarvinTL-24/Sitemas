@@ -34,8 +34,8 @@ namespace projeto
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 janela = new Form2();
-            janela.Show();
+            this.DialogResult = DialogResult.OK;
+            this.Close();
         }
     }
 }

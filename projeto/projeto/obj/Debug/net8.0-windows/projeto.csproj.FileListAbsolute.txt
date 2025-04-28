@@ -18,3 +18,10 @@ D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0
 D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\ref\projeto.dll
 D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.editores.resources
 D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.beatmaker.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.cantores.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.feat.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.ilustradores.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.mix.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.react.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.recortadores.resources
+D:\Users\Aluno\Documents\Marvin Tavares\Sitemas\projeto\projeto\obj\Debug\net8.0-windows\projeto.thumbmaker.resources

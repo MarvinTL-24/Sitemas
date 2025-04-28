@@ -39,6 +39,7 @@
             button7 = new Button();
             button8 = new Button();
             button9 = new Button();
+            button10 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -151,12 +152,24 @@
             button9.UseVisualStyleBackColor = true;
             button9.Click += button9_Click;
             // 
+            // button10
+            // 
+            button10.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button10.Location = new Point(337, 544);
+            button10.Name = "button10";
+            button10.Size = new Size(168, 54);
+            button10.TabIndex = 11;
+            button10.Text = "SAIR";
+            button10.UseVisualStyleBackColor = true;
+            button10.Click += button10_Click;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(9F, 21F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlDark;
             ClientSize = new Size(831, 630);
+            Controls.Add(button10);
             Controls.Add(button7);
             Controls.Add(button8);
             Controls.Add(button9);
@@ -189,5 +202,6 @@
         private Button button7;
         private Button button8;
         private Button button9;
+        private Button button10;
     }
 }
