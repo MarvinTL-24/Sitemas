@@ -61,8 +61,7 @@ namespace projeto
 
         private void button8_Click(object sender, EventArgs e)
         {
-            feat janela = new feat();
-            janela.Show();
+            
         }
 
         private void button7_Click(object sender, EventArgs e)

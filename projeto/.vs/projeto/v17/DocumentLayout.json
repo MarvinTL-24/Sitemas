@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\feat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\feat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form1.cs",
               "RelativeDocumentMoniker": "projeto\\Form1.cs",
@@ -47,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form2.cs",
               "RelativeDocumentMoniker": "projeto\\Form2.cs",
@@ -59,50 +51,25 @@
               "EditorCaption": " [Projeto]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "feat.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.Designer.cs",
-              "RelativeDocumentMoniker": "projeto\\feat.Designer.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.Designer.cs",
-              "RelativeToolTip": "projeto\\feat.Designer.cs",
-              "ViewState": "AQIAAJACAAAAAAAAAAAgwKUCAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:42:38.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "feat.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
-              "RelativeDocumentMoniker": "projeto\\feat.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
-              "RelativeToolTip": "projeto\\feat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:43:52.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "feat.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
-              "RelativeDocumentMoniker": "projeto\\feat.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs [Projeto]",
-              "RelativeToolTip": "projeto\\feat.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:43:41.096Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form2.cs",
+              "RelativeDocumentMoniker": "projeto\\Form2.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form2.cs",
+              "RelativeToolTip": "projeto\\Form2.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAEwD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:46:59.344Z",
+              "EditorCaption": ""
             }
           ]
         }
