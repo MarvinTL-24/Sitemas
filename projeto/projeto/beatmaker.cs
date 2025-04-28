@@ -19,12 +19,8 @@ namespace projeto
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            this.DialogResult = DialogResult.OK;
+            this.Close();
         }
     }
 }

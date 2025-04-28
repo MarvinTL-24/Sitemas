@@ -103,10 +103,10 @@
             groupBox5.Controls.Add(linkLabel10);
             groupBox5.Controls.Add(label11);
             groupBox5.Controls.Add(pictureBox5);
-            groupBox5.Location = new Point(1019, 529);
+            groupBox5.Location = new Point(1017, 530);
             groupBox5.Name = "groupBox5";
             groupBox5.Size = new Size(274, 371);
-            groupBox5.TabIndex = 32;
+            groupBox5.TabIndex = 52;
             groupBox5.TabStop = false;
             groupBox5.Text = "4";
             // 
@@ -163,10 +163,10 @@
             groupBox6.Controls.Add(linkLabel12);
             groupBox6.Controls.Add(label13);
             groupBox6.Controls.Add(pictureBox6);
-            groupBox6.Location = new Point(707, 529);
+            groupBox6.Location = new Point(705, 530);
             groupBox6.Name = "groupBox6";
             groupBox6.Size = new Size(274, 371);
-            groupBox6.TabIndex = 31;
+            groupBox6.TabIndex = 51;
             groupBox6.TabStop = false;
             groupBox6.Text = "3";
             // 
@@ -223,10 +223,10 @@
             groupBox7.Controls.Add(linkLabel14);
             groupBox7.Controls.Add(label15);
             groupBox7.Controls.Add(pictureBox7);
-            groupBox7.Location = new Point(379, 529);
+            groupBox7.Location = new Point(377, 530);
             groupBox7.Name = "groupBox7";
             groupBox7.Size = new Size(274, 371);
-            groupBox7.TabIndex = 30;
+            groupBox7.TabIndex = 50;
             groupBox7.TabStop = false;
             groupBox7.Text = "2";
             // 
@@ -283,10 +283,10 @@
             groupBox8.Controls.Add(linkLabel16);
             groupBox8.Controls.Add(label17);
             groupBox8.Controls.Add(pictureBox8);
-            groupBox8.Location = new Point(67, 529);
+            groupBox8.Location = new Point(65, 530);
             groupBox8.Name = "groupBox8";
             groupBox8.Size = new Size(274, 371);
-            groupBox8.TabIndex = 29;
+            groupBox8.TabIndex = 49;
             groupBox8.TabStop = false;
             groupBox8.Text = "1";
             // 
@@ -343,10 +343,10 @@
             groupBox3.Controls.Add(linkLabel6);
             groupBox3.Controls.Add(label7);
             groupBox3.Controls.Add(pictureBox3);
-            groupBox3.Location = new Point(1019, 123);
+            groupBox3.Location = new Point(1017, 124);
             groupBox3.Name = "groupBox3";
             groupBox3.Size = new Size(274, 371);
-            groupBox3.TabIndex = 28;
+            groupBox3.TabIndex = 48;
             groupBox3.TabStop = false;
             groupBox3.Text = "4";
             // 
@@ -403,10 +403,10 @@
             groupBox4.Controls.Add(linkLabel8);
             groupBox4.Controls.Add(label9);
             groupBox4.Controls.Add(pictureBox4);
-            groupBox4.Location = new Point(707, 123);
+            groupBox4.Location = new Point(705, 124);
             groupBox4.Name = "groupBox4";
             groupBox4.Size = new Size(274, 371);
-            groupBox4.TabIndex = 27;
+            groupBox4.TabIndex = 47;
             groupBox4.TabStop = false;
             groupBox4.Text = "3";
             // 
@@ -463,10 +463,10 @@
             groupBox2.Controls.Add(linkLabel4);
             groupBox2.Controls.Add(label5);
             groupBox2.Controls.Add(pictureBox2);
-            groupBox2.Location = new Point(379, 123);
+            groupBox2.Location = new Point(377, 124);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(274, 371);
-            groupBox2.TabIndex = 26;
+            groupBox2.TabIndex = 46;
             groupBox2.TabStop = false;
             groupBox2.Text = "2";
             // 
@@ -518,10 +518,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(8, 7);
+            button1.Location = new Point(6, 8);
             button1.Name = "button1";
             button1.Size = new Size(149, 76);
-            button1.TabIndex = 25;
+            button1.TabIndex = 45;
             button1.Text = "RETORNAR";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
@@ -533,10 +533,10 @@
             groupBox1.Controls.Add(linkLabel1);
             groupBox1.Controls.Add(label2);
             groupBox1.Controls.Add(pictureBox1);
-            groupBox1.Location = new Point(67, 123);
+            groupBox1.Location = new Point(65, 124);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(274, 371);
-            groupBox1.TabIndex = 24;
+            groupBox1.TabIndex = 44;
             groupBox1.TabStop = false;
             groupBox1.Text = "1";
             // 
@@ -590,10 +590,10 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Showcard Gothic", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(550, 9);
+            label1.Location = new Point(564, 8);
             label1.Name = "label1";
             label1.Size = new Size(278, 79);
-            label1.TabIndex = 23;
+            label1.TabIndex = 43;
             label1.Text = "REACT'S";
             // 
             // react

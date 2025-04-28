@@ -3,87 +3,19 @@
   "WorkspaceRootPath": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\cantores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\cantores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\beatmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\beatmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\beatmaker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\beatmaker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\editores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\editores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\react.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\react.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\react.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\react.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\editores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\editores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\cantores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\cantores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\ilustradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\ilustradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\thumbmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\thumbmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\recortadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\recortadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\feat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\feat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\recortadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\recortadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\feat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\thumbmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\thumbmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\ilustradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\ilustradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\mix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|d:\\users\\aluno\\documents\\marvin tavares\\sitemas\\projeto\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{748E0DDC-6BE0-45F4-AB08-8D1B0772B7AD}|projeto\\projeto.csproj|solutionrelative:projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -98,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form1.cs",
               "RelativeDocumentMoniker": "projeto\\Form1.cs",
@@ -115,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form2.cs",
               "RelativeDocumentMoniker": "projeto\\Form2.cs",
@@ -128,235 +60,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "editores.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\editores.cs",
-              "RelativeDocumentMoniker": "projeto\\editores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\editores.cs [Projeto]",
-              "RelativeToolTip": "projeto\\editores.cs [Projeto]",
+              "DocumentIndex": 0,
+              "Title": "feat.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.Designer.cs",
+              "RelativeDocumentMoniker": "projeto\\feat.Designer.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.Designer.cs",
+              "RelativeToolTip": "projeto\\feat.Designer.cs",
+              "ViewState": "AQIAAJACAAAAAAAAAAAgwKUCAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:51:38.826Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-04-28T19:42:38.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "feat.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
+              "RelativeDocumentMoniker": "projeto\\feat.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
+              "RelativeToolTip": "projeto\\feat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:43:52.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "beatmaker.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\beatmaker.cs",
-              "RelativeDocumentMoniker": "projeto\\beatmaker.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\beatmaker.cs [Projeto]",
-              "RelativeToolTip": "projeto\\beatmaker.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:52:51.641Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "cantores.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\cantores.cs",
-              "RelativeDocumentMoniker": "projeto\\cantores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\cantores.cs [Projeto]",
-              "RelativeToolTip": "projeto\\cantores.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:55:24.179Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "mix.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\mix.cs",
-              "RelativeDocumentMoniker": "projeto\\mix.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\mix.cs [Projeto]",
-              "RelativeToolTip": "projeto\\mix.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:57:37.473Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ilustradores.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\ilustradores.cs",
-              "RelativeDocumentMoniker": "projeto\\ilustradores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\ilustradores.cs [Projeto]",
-              "RelativeToolTip": "projeto\\ilustradores.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:59:54.773Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "thumbmaker.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\thumbmaker.cs",
-              "RelativeDocumentMoniker": "projeto\\thumbmaker.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\thumbmaker.cs [Projeto]",
-              "RelativeToolTip": "projeto\\thumbmaker.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:02:52.767Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "recortadores.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\recortadores.cs",
-              "RelativeDocumentMoniker": "projeto\\recortadores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\recortadores.cs [Projeto]",
-              "RelativeToolTip": "projeto\\recortadores.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:04:32.677Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "feat.cs [Projeto]",
               "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
               "RelativeDocumentMoniker": "projeto\\feat.cs",
               "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs [Projeto]",
               "RelativeToolTip": "projeto\\feat.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:05:32.103Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "beatmaker.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\beatmaker.Designer.cs",
-              "RelativeDocumentMoniker": "projeto\\beatmaker.Designer.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\beatmaker.Designer.cs",
-              "RelativeToolTip": "projeto\\beatmaker.Designer.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAApwHcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:16:04.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "react.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\react.cs",
-              "RelativeDocumentMoniker": "projeto\\react.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\react.cs",
-              "RelativeToolTip": "projeto\\react.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:15:31.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "feat.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
-              "RelativeDocumentMoniker": "projeto\\feat.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\feat.cs",
-              "RelativeToolTip": "projeto\\feat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:15:09.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "recortadores.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\recortadores.cs",
-              "RelativeDocumentMoniker": "projeto\\recortadores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\recortadores.cs",
-              "RelativeToolTip": "projeto\\recortadores.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:15:05.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "thumbmaker.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\thumbmaker.cs",
-              "RelativeDocumentMoniker": "projeto\\thumbmaker.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\thumbmaker.cs",
-              "RelativeToolTip": "projeto\\thumbmaker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:15:01.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ilustradores.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\ilustradores.cs",
-              "RelativeDocumentMoniker": "projeto\\ilustradores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\ilustradores.cs",
-              "RelativeToolTip": "projeto\\ilustradores.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:14:58.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "mix.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\mix.cs",
-              "RelativeDocumentMoniker": "projeto\\mix.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\mix.cs",
-              "RelativeToolTip": "projeto\\mix.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:14:52.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "cantores.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\cantores.cs",
-              "RelativeDocumentMoniker": "projeto\\cantores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\cantores.cs",
-              "RelativeToolTip": "projeto\\cantores.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:14:41.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "editores.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\editores.cs",
-              "RelativeDocumentMoniker": "projeto\\editores.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\editores.cs",
-              "RelativeToolTip": "projeto\\editores.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAD4vyUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:08:47.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "react.cs [Projeto]",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\react.cs",
-              "RelativeDocumentMoniker": "projeto\\react.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\react.cs [Projeto]",
-              "RelativeToolTip": "projeto\\react.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:06:56.879Z",
+              "WhenOpened": "2025-04-28T19:43:41.096Z",
               "EditorCaption": " [Projeto]"
             },
             {
@@ -366,32 +103,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "projeto\\Form1.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form1.cs",
-              "RelativeToolTip": "projeto\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:32:38.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form2.cs",
-              "RelativeDocumentMoniker": "projeto\\Form2.cs",
-              "ToolTip": "D:\\Users\\Aluno\\Documents\\Marvin Tavares\\Sitemas\\projeto\\projeto\\Form2.cs",
-              "RelativeToolTip": "projeto\\Form2.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAD4v0wAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:48:45.811Z",
-              "EditorCaption": ""
             }
           ]
         }

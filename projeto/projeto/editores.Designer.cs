@@ -625,6 +625,7 @@
             Controls.Add(label1);
             Name = "editores";
             Text = "editores";
+            Load += editores_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

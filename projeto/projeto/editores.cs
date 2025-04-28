@@ -37,5 +37,10 @@ namespace projeto
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
+
+        private void editores_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
